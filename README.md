@@ -1,6 +1,9 @@
 # Frontend Development
 
-A comprehensive repository showcasing core **frontend development** skills using **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to build responsive, interactive, and well-structured web pages by combining markup, styling, and scripting.
+A comprehensive repository showcasing core **frontend development** skills using **HTML**, **CSS**, and **JavaScript**. These projects demonstrate how to build responsive, interactive, and well-structured web pages by combining markup, styling, and scripting. Visit [Journey](#journey) for detailed explaination of languages.
+
+> ⚠️ **Disclaimer:** These projects are built solely for learning and skill development purposes.
+
 
 ---
 
@@ -45,6 +48,11 @@ This repository is aimed at beginners and intermediate developers who want to st
 - Responsive design using CSS media queries
 - Basic JavaScript interactivity such as event handling
 - Organized and modular file structure
+
+---
+## Journey
+
+🧑‍💻 **Follow my HTML and CSS learning path through this repo → [Click here](https://github.com/atreyi-biswas/General/tree/main/HTML%20and%20CSS)**
 
 ---
 
