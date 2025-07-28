@@ -42,6 +42,13 @@ This repository is aimed at beginners and intermediate developers who want to st
 
 ---
 
+## Tools and Help used
+
+- **VSCode**
+- **BroCode** – Learning HTML and CSS from this YouTube channel
+- **w3schools** - Practicing HTML and CSS  
+---
+
 ## Features
 
 - Clean and semantic HTML structure
