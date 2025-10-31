@@ -28,7 +28,8 @@ This repository is aimed at beginners and intermediate developers who want to st
 |  Projects                      | Languages used        | Status   |
 |--------------------------------|-----------------------|----------|
 | Website                        | HTML                  | Done     |
-| Number Guessing Game           | HTML, CSS, Javascript | Done     |
+| Counter Program                | HTML, CSS, Javascript | Done     |
+| Number Guessing Game           | HTML, CSS, Javascript |          |
 | Temperature Conversion Program | HTML, CSS, Javascript |          |
 | Dice Roller Program            | HTML, CSS, Javascript |          |
 | Random Password Generator      | HTML, CSS, Javascript |          |
