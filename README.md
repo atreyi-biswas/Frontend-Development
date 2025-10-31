@@ -25,8 +25,13 @@ This repository is aimed at beginners and intermediate developers who want to st
 
 ## Project Structure
 
-1. HTML and CSS : Projects done using only HTML and CSS.
-2. 
+|  Projects                      | Languages used        |
+|--------------------------------|-----------------------|
+| Website                        | HTML                  |
+| Number Guessing Game           | HTML, CSS, Javascript |
+| Temperature Conversion Program | HTML, CSS, Javascript |
+| Dice Roller Program            | HTML, CSS, Javascript |
+| Random Password Generator      | HTML, CSS, Javascript |
 
 
 ---
