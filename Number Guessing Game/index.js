@@ -28,5 +28,4 @@ while(running){
             window.alert(`CORRECT! The answer was ${answer}. It took you ${attempts} attempts.`);
         }
     }
-    running = false;
 }
