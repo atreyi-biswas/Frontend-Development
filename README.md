@@ -33,6 +33,12 @@ This repository is aimed at beginners and intermediate developers who want to st
 | Temperature Conversion Program | HTML, CSS, Javascript |          |
 | Dice Roller Program            | HTML, CSS, Javascript |          |
 | Random Password Generator      | HTML, CSS, Javascript |          |
+| Digital Clock Program          | HTML, CSS, Javascript |          |
+| Stopwatch Program              | HTML, CSS, Javascript |          |
+| Calculator Program             | HTML, CSS, Javascript |          |
+| Rock Paper Scissors            | HTML, CSS, Javascript |          |
+| Image Slider                   | HTML, CSS, Javascript |          |
+| Weather App Project            | HTML, CSS, Javascript |          |
 
 
 ---
