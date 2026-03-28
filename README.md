@@ -30,7 +30,7 @@ This repository is aimed at beginners and intermediate developers who want to st
 | Website                        | HTML                  | E          | Done     |
 | Counter Program                | HTML, CSS, Javascript | E          | Done     |
 | Number Guessing Game           | HTML, Javascript      | E          | Done     |
-| Temperature Conversion Program | HTML, CSS, Javascript | E          | Pending  |
+| Temperature Conversion Program | HTML, CSS, Javascript | E          | Done     |
 | Dice Roller Program            | HTML, CSS, Javascript | E          | Pending  |
 | Random Password Generator      | HTML, CSS, Javascript | M          | Pending  |
 | Digital Clock Program          | HTML, CSS, Javascript | M          | Pending  |
