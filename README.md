@@ -25,20 +25,20 @@ This repository is aimed at beginners and intermediate developers who want to st
 
 ## Project Structure
 
-|  Projects                      | Languages used        | Status   |
-|--------------------------------|-----------------------|----------|
-| Website                        | HTML                  | Done     |
-| Counter Program                | HTML, CSS, Javascript | Done     |
-| Number Guessing Game           | HTML, Javascript      | Done     |
-| Temperature Conversion Program | HTML, CSS, Javascript |          |
-| Dice Roller Program            | HTML, CSS, Javascript |          |
-| Random Password Generator      | HTML, CSS, Javascript |          |
-| Digital Clock Program          | HTML, CSS, Javascript |          |
-| Stopwatch Program              | HTML, CSS, Javascript |          |
-| Calculator Program             | HTML, CSS, Javascript |          |
-| Rock Paper Scissors            | HTML, CSS, Javascript |          |
-| Image Slider                   | HTML, CSS, Javascript |          |
-| Weather App Project            | HTML, CSS, Javascript |          |
+| Projects                       | Languages used        | Difficulty | Status   |
+|--------------------------------|-----------------------|------------|----------|
+| Website                        | HTML                  | E          | Done     |
+| Counter Program                | HTML, CSS, Javascript | E          | Done     |
+| Number Guessing Game           | HTML, Javascript      | E          | Done     |
+| Temperature Conversion Program | HTML, CSS, Javascript | E          | Pending  |
+| Dice Roller Program            | HTML, CSS, Javascript | E          | Pending  |
+| Random Password Generator      | HTML, CSS, Javascript | M          | Pending  |
+| Digital Clock Program          | HTML, CSS, Javascript | M          | Pending  |
+| Stopwatch Program              | HTML, CSS, Javascript | M          | Pending  |
+| Calculator Program             | HTML, CSS, Javascript | M          | Pending  |
+| Rock Paper Scissors            | HTML, CSS, Javascript | M          | Pending  |
+| Image Slider                   | HTML, CSS, Javascript | M          | Pending  |
+| Weather App Project            | HTML, CSS, Javascript | H          | Pending  |
 
 
 ---
